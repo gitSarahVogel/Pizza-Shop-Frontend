@@ -1,0 +1,9 @@
+.border{
+    margin-left: 17px;
+     /* border: 2px solid rgb(0,0,0); */
+     height: 230px;
+     width: 250px;
+     margin-right: 25px ;
+     display:inline-block; 
+ 
+ }
